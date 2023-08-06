@@ -5,12 +5,12 @@ The game is built entirely with ReactJS ⚛ and Redux Toolkit 🔧.  <br/>
 <a href="https://mariojumpp.vercel.app/">Play Here 🎮</a> </h5>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-  * [🎮 Gameplay ](#gameplay )
-  * [Author](#author)
-  * [License](#license)
+- [Configuration and Setup](#configuration-and-setup)
+- [Key Features](#key-features)
+- [Technologies used](#technologies-used)
+- [🎮 Gameplay ](#gameplay)
+- [Author](#author)
+- [License](#license)
 
 ## Configuration and Setup
 
@@ -23,14 +23,15 @@ In the first terminal
 
 ```
 $ cd mario-jump-game
-$ npm install 
+$ npm install
 $ npm start
 
 ```
-##  Key Features
 
-- Mobile Responsive 
-- Beautiful Animations 
+## Key Features
+
+- Mobile Responsive
+- Beautiful Animations
 - Rapid Controls
 - High Score
 - Mario Background Music
@@ -38,27 +39,26 @@ $ npm start
 
 <br/>
 
-##  Technologies used
+## Technologies used
 
 This project was created using the following technologies.
 
 - [React](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications.
-- [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state.
+- [React Hooks ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state.
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing.
 - [Css](https://developer.mozilla.org/en-US/docs/Web/CSS) - For User Interface.
 - [React Redux](https://react-redux.js.org/) -Helps maintain consistency between state and views
 - [Redux Toolkit](https://redux-toolkit.js.org/) - To facilitate the development of web applications using Redux
- 
- ##  Gameplay 
 
-![mario-jump-game](https://user-images.githubusercontent.com/111676859/235500789-7561dfe0-642b-41b2-bb6a-8274c158c0fc.gif)
+## Gameplay
+
+![mario-jump-game](https://i.ibb.co/s5m3r8r/235500789-7561dfe0-642b-41b2-bb6a-8274c158c0fc.gif)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+
+- Portfolio: [daniel](http://masterdev0218.portfolio.app)
+- Github: [masterdev0218](https://github.com/masterdev0218)
+- Email: [daniel.lee0218929@gmail.com](mailto:daniel.lee0218929@gmail.com)
 
 ## License
 
